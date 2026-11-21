@@ -1,0 +1,6 @@
+File Statistics Report (Swift)
+------------------------------
+Total Lines: 3
+Total Words: 19
+Total Characters: 130
+Longest Word Length: 10
